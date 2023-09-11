@@ -56,51 +56,15 @@ In just 4 semesters of college, I completed Directed Studies in Mathematics, and
 
 
 
-```html
-<button id="backToTopBtn" class="btn btn-primary" title="Back to Top">Top</button>
 
-<style>
-/* CSS for Back to Top button */
-#backToTopBtn {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 99;
-    font-size: 18px;
-    border: none;
-    outline: none;
-    background-color: #007bff;
-    color: #fff;
-    cursor: pointer;
-    padding: 10px 20px;
-    border-radius: 50%;
-}
-
-#backToTopBtn:hover {
-    background-color: #0056b3;
-}
-</style>
+<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
 <script>
-// JavaScript for Back to Top button
-var backToTopBtn = document.getElementById("backToTopBtn");
-
+// JavaScript to remove fragment identifier when scrolling down
 window.addEventListener("scroll", function () {
-    if (window.pageYOffset > 100) {
-        // Show the button when user scrolls down 100px from the top
-        backToTopBtn.style.display = "block";
-    } else {
-        // Hide the button when user is at or near the top of the page
-        backToTopBtn.style.display = "none";
+    if (window.pageYOffset > 0) {
+        // Clear the fragment identifier (e.g., #top)
+        history.replaceState({}, document.title, window.location.pathname);
     }
-});
-
-backToTopBtn.addEventListener("click", function () {
-    // Scroll to the top of the page when the button is clicked
-    window.scrollTo({
-        top: 0,
-        behavior: "smooth" // Smooth scrolling effect
-    });
 });
 </script>
