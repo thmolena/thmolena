@@ -23,9 +23,11 @@
     <td align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
 </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thmolena&repo=github-readme-stats" />
+    </td>
   </tr>
 </table>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thmolena&repo=github-readme-stats)](https://github.com/thmolena/github-readme-stats)
 
 
 ### 🔑 Molena Nguyen's Coding Portfolio
