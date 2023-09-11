@@ -10,25 +10,9 @@
 
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Qualifying Exams in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
-
-🤔 Below is the summery of my 85 projects on Github.
-
-
-⌛️ My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
-
-📚 Conferences: During the Spring semester of 2022, I presented my single-author paper titled “Take-away Impartial Combinatorial Games on Different Geometric and Discrete Structures” at the SIAM Conference on Discrete Mathematics (DM22), the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM) 2022 (which was rescheduled due to serious concerns regarding the Omicron variant of COVID-19). During the Fall semester of 2021, I presented my single-author research at the Young Mathematicians Conference, (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), the Annual SIAM Central States Section Conference (CSS21), and the 4th Annual Meeting of the SIAM Texas Louisiana Section (TXLA21).
-
-📝 Outreach activities: I have served as a SIAM Officer at the SIAM NCSU Chapter for two years (2022-2024). In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD ), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, mentorship.
-
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thmolena/)
 
-😄 Pronouns: She/Her/Hers
-
- ⚡ Fun fact: At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for Fall 2021, I was honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (Fall 2021). During the Spring semester of 2021, I participated in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural, and relatively small 4-year Liberal Arts College to a prestigious Applied Mathematics PhD Program. 
- 
- In Fall 2018, right after getting a High School Diploma, I attended a rural and relatively small 4-year Liberal Arts College in Kentucky (Berea College). In fewer than three years, from the starting point of 0 transfer credit, after changing my major(s) for four times, I just graduated from Berea College with a MAGNA CUM LAUDE Bachelor's Degree in Mathematics (Computer Science minor), with a Major GPA of 4.0/ 4.0.
-
-In just 4 semesters of college, I completed Directed Studies in Mathematics, and every single one of the upper-level Mathematics courses that Berea College offered with only A's and A+'s. In the past 5 semesters, I had to fill in the overload coursework form in every single semester to take 6 full-credit courses, as Berea College students could self-register for only 4 full-credit courses.
+🤔 Below is the summery of my 85 projects on Github.
 
 
 
@@ -48,4 +32,19 @@ Data Structures with C++ | 52. [Binary Addition](https://github.com/thmolena/Bin
 JPMorgan Chase & Co. Software Engineering Virtual Experience | 63. [JPMorgan First Task](https://github.com/thmolena/JP-Morgan-Virtual-Internship-First-Task) <br/> 64. [JPMorgan Second Task](https://github.com/thmolena/JP-Morgan-Virtual-Internship-Second-Task)
 MATLAB |65. [Machine Learning in MATLAB](https://github.com/thmolena/Machine-Learning-MATLAB) <br/> 66. [Numerical Analysis in MATLAB](https://github.com/thmolena/Numerical-Analysis-in-MATLAB)
 Coding Practice | 67. [Coding practice with Javascript](https://github.com/thmolena/Coding-practice-with-JavaScript) <br/> 68. [Coding practice with Python 1](https://github.com/thmolena/Python-Coding-Practice-1) <br/> 69. [Coding practice with Python 2](https://github.com/thmolena/Python-Coding-Practice-2) <br/> 70. [Coding practice with Python 3](https://github.com/thmolena/Python-Coding-Practice-3)  <br/> 71. [Turtle Art](https://github.com/thmolena/Turtle-Art) <br/> 72. [Modules](https://github.com/thmolena/Practice-with-Modules)<br/> 73. [Mad Lib](https://github.com/thmolena/Mad-Lib) <br/> 74. [Adventure](https://github.com/thmolena/Adventure) <br/> 75. [Unit Testing](https://github.com/thmolena/Practice-with-Unit-Testing) <br/> 76. [Django Learning](https://github.com/thmolena/Django-Learning) <br/> 77. [Funky Functions](https://github.com/thmolena/Practice-with-Funcky-Functions) <br/> 78. [Making-boustrophedon](https://github.com/thmolena/Making-boustrophedon) <br/> 79. [Math Quiz on Cars](https://github.com/thmolena/Math-Quiz-on-Cars)  <br/> 80. [Python Classes](https://github.com/thmolena/Python-Intro-to-Classes)<br/> 81. [Excel Visual Basic for Applications Project 1](https://github.com/thmolena/Excel-Visual-Basic-for-Applications-Project-1)<br/> 82. [Excel Visual Basic for Applications Project 2](https://github.com/thmolena/Excel-Visual-Basic-for-Applications-Project-2)<br/> 83. [Excel Visual Basic for Applications Project 3](https://github.com/thmolena/Excel-Visual-Basic-for-Applications-Project-3)<br/> 84. [Excel Visual Basic for Applications Project 4](https://github.com/thmolena/Excel-Visual-Basic-for-Applications-Project-4)<br/> 85. [Excel Visual Basic for Applications Project 5](https://github.com/thmolena/Excel-Visual-Basic-for-Applications-Project-5) 
+
+
+⌛️ My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
+
+📚 Conferences: During the Spring semester of 2022, I presented my single-author paper titled “Take-away Impartial Combinatorial Games on Different Geometric and Discrete Structures” at the SIAM Conference on Discrete Mathematics (DM22), the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM) 2022 (which was rescheduled due to serious concerns regarding the Omicron variant of COVID-19). During the Fall semester of 2021, I presented my single-author research at the Young Mathematicians Conference, (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), the Annual SIAM Central States Section Conference (CSS21), and the 4th Annual Meeting of the SIAM Texas Louisiana Section (TXLA21).
+
+📝 Outreach activities: I have served as a SIAM Officer at the SIAM NCSU Chapter for two years (2022-2024). In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD ), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, mentorship.
+
+😄 Pronouns: She/Her/Hers
+
+ ⚡ Fun fact: At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for Fall 2021, I was honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (Fall 2021). During the Spring semester of 2021, I participated in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural, and relatively small 4-year Liberal Arts College to a prestigious Applied Mathematics PhD Program. 
+ 
+ In Fall 2018, right after getting a High School Diploma, I attended a rural and relatively small 4-year Liberal Arts College in Kentucky (Berea College). In fewer than three years, from the starting point of 0 transfer credit, after changing my major(s) for four times, I just graduated from Berea College with a MAGNA CUM LAUDE Bachelor's Degree in Mathematics (Computer Science minor), with a Major GPA of 4.0/ 4.0.
+
+In just 4 semesters of college, I completed Directed Studies in Mathematics, and every single one of the upper-level Mathematics courses that Berea College offered with only A's and A+'s. In the past 5 semesters, I had to fill in the overload coursework form in every single semester to take 6 full-credit courses, as Berea College students could self-register for only 4 full-credit courses.
 
