@@ -10,6 +10,10 @@
 
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
+🍀 Pronouns: She/Her/Hers 
+
+📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
+
 
 ### 🚀 Github Stats 
 
@@ -17,10 +21,6 @@
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=graywhite"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
   
 <img  src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/>  
-
-🍀 Pronouns: She/Her/Hers 
-
-📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
 ### 🔑 Molena Nguyen's Coding Portfolio
 
