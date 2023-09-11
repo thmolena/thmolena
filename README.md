@@ -15,6 +15,7 @@
     </a>
 
 ### 🚀 GitHub Stats
+
               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=9&layout=pie&theme=onedark&hide_border=true" />
               
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thmolena&count_private=true&hide=stars,issues,contribs&show_icons=true&hide_rank=true&rank_icon=github&theme=onedark&hide_border=true" />
