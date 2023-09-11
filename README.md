@@ -21,8 +21,6 @@
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmolena&theme=graywhite"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=thmolena&theme=graywhite"/>
-
 
 ### 🔑 Molena Nguyen's Coding Portfolio
 
