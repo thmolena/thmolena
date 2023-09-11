@@ -14,7 +14,7 @@
 🚀 Github Stats 
  
 
- <img align="center" src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/thmolena/0-profile-details.svg" /> 
+ <img align="center" src="https://raw.githubusercontent.com/thmolena/thmolena/master/profile-summary-card-output/thmolena/0-profile-details.svg" /> 
  
  <img align="center" src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> 
  
