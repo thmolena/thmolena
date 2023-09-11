@@ -12,6 +12,21 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thmolena/)
 
+
+### GitHub Stats
+
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thmolena&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
+</td>
+  </tr>
+</table>
+
+
 🤔 Below is the summary of my 85 projects on Github.
 
 
