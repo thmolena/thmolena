@@ -24,12 +24,12 @@
 
 😄 Pronouns: She/Her/Hers
 
- ⚡ Fun fact: At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for Fall 2021, I am honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (Fall 2021). Currently, I am participating in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural, and relatively small 4-year Liberal Arts College to a prestigious Applied Mathematics PhD Program. 
+ ⚡ Fun fact: At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for Fall 2021, I was honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (Fall 2021). During the Spring semester of 2021, I participated in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural, and relatively small 4-year Liberal Arts College to a prestigious Applied Mathematics PhD Program. 
  
- In Fall 2018, right after getting a High School Diploma, I attended a rural and relatively small 4-year Liberal Arts College in Kentucky (Berea College).
-In fewer than three years, from the starting point of 0 transfer credit, after changing my major(s) for four times, I just graduated from Berea College with a MAGNA CUM LAUDE Bachelor's Degree in Mathematics (Computer Science minor), with a GPA of 4.0/ 4.0.
+ In Fall 2018, right after getting a High School Diploma, I attended a rural and relatively small 4-year Liberal Arts College in Kentucky (Berea College). In fewer than three years, from the starting point of 0 transfer credit, after changing my major(s) for four times, I just graduated from Berea College with a MAGNA CUM LAUDE Bachelor's Degree in Mathematics (Computer Science minor), with a Major GPA of 4.0/ 4.0.
 
 In just 4 semesters of college, I completed Directed Studies in Mathematics, and every single one of the upper-level Mathematics courses that Berea College offered with only A's and A+'s. In the past 5 semesters, I had to fill in the overload coursework form in every single semester to take 6 full-credit courses, as Berea College students could self-register for only 4 full-credit courses.
+
 
 
 # Molena Nguyen's Coding Portfolio
