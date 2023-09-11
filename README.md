@@ -14,9 +14,7 @@
         <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />
     </a>
 
-### 🚀 GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=9&layout=compact&theme=onedark&hide_border=false" />
+### 🚀 GitHub Stats  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=9&layout=compact&theme=gradient&hide_border=true" />
  
 
 
