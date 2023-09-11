@@ -14,7 +14,7 @@
         <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />
     </a>
 
-### [https://skillicons.dev/icons?i=github] GitHub Stats
+### 🔑 GitHub Stats
 <table class="center" style="width:100%;">
   <tr>
     <td align="center">
@@ -27,11 +27,7 @@
 </table>
 
 
-🤔 Below is the summary of my 85 projects on Github.
-
-
-
-### Molena Nguyen's Coding Portfolio
+### 🔑 Molena Nguyen's Coding Portfolio
 
 This is a summary of 85 projects of Molena on Github.
 
