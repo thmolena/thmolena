@@ -14,7 +14,7 @@
         <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />
     </a>
 
-### [(https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) GitHub Stats
+### [![GitHub Stats](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <table class="center" style="width:100%;">
   <tr>
