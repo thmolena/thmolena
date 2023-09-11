@@ -3,7 +3,7 @@
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
 - [Publications and Conferences](#Publications)
-- [Outreach activities](#Outreach)
+- [Outreach Activities](#Outreach)
 
 
 <a name="Hithere"></a>
