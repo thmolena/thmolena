@@ -18,20 +18,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=9&layout=pie&theme=onedark&hide_border=false" />
  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thmolena&count_private=true&hide=stars,issues,contribs&show_icons=true&hide_rank=true&rank_icon=github&theme=onedark&hide_border=true" />
-
-
-### 🚀 GitHub Stats
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=9&layout=pie&theme=onedark&hide_border=false" />
-    </td>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thmolena&count_private=true&hide=stars,issues,contribs&show_icons=true&hide_rank=true&rank_icon=github&theme=onedark&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 
 ### 🔑 Molena Nguyen's Coding Portfolio
