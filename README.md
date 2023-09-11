@@ -12,7 +12,7 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thmolena/)
 
-🤔 Below is the summery of my 85 projects on Github.
+🤔 Below is the summary of my 85 projects on Github.
 
 
 
