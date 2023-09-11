@@ -10,9 +10,9 @@
 
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
-🍀 Pronouns: She/Her/Hers 
-
 📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
+
+🍀 Pronouns: She/Her/Hers 
 
 
 ### 🚀 Github Stats 
