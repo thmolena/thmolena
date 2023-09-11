@@ -17,6 +17,8 @@
 🍀 Pronouns: She/Her/Hers 
 
 
+<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
+
 ### 🚀 Github Stats 
   
 <img  src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/>  
@@ -58,13 +60,3 @@ In just 4 semesters of college, I completed Directed Studies in Mathematics, and
 
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
-
-<script>
-// JavaScript to remove fragment identifier when scrolling down
-window.addEventListener("scroll", function () {
-    if (window.pageYOffset > 0) {
-        // Clear the fragment identifier (e.g., #top)
-        history.replaceState({}, document.title, window.location.pathname);
-    }
-});
-</script>
