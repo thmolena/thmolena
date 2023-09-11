@@ -1,4 +1,4 @@
-### 🌿 Hi there 🖐️ Table of Contents
+### 🌿 Welcome to my Github 🖐️ Table of Contents
 - [Introduction](#Hithere)
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
