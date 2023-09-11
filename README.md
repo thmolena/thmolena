@@ -1,4 +1,4 @@
-<header id="top">### 🌿 Hi there 🖐️</header>
+### 🌿 Hi there 🖐️
 
 
 
@@ -54,6 +54,51 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 
 In just 4 semesters of college, I completed Directed Studies in Mathematics, and every single one of the upper-level Mathematics courses that Berea College offered with only A's and A+'s. In the past 5 semesters, I had to fill in the overload coursework form in every single semester to take 6 full-credit courses, as Berea College students could self-register for only 4 full-credit courses.
 
-<div class="back-to-top-wrapper">
-    <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
-  </div>
+<button id="backToTopBtn" class="btn btn-primary" title="Back to Top">Top</button>
+
+<style>
+/* CSS for Back to Top button */
+#backToTopBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 50%;
+}
+
+#backToTopBtn:hover {
+    background-color: #0056b3;
+}
+</style>
+
+<script>
+// JavaScript for Back to Top button
+var backToTopBtn = document.getElementById("backToTopBtn");
+
+window.addEventListener("scroll", function () {
+    if (window.pageYOffset > 100) {
+        // Show the button when user scrolls down 100px from the top
+        backToTopBtn.style.display = "block";
+    } else {
+        // Hide the button when user is at or near the top of the page
+        backToTopBtn.style.display = "none";
+    }
+});
+
+backToTopBtn.addEventListener("click", function () {
+    // Scroll to the top of the page when the button is clicked
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth" // Smooth scrolling effect
+    });
+});
+</script>
+
