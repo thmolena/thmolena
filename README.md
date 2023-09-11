@@ -18,7 +18,7 @@
 
 This is a summary of 85 projects of Molena on Github.
 
-Topics/ Fields / Programming Languages | Projects 
+Topics/ Areas / Programming Languages | Projects 
 ---------- | --------
 Name: Molena Nguyen <br>  📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">        <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />    </a>  <br> 👑 Pronouns: She/Her/Hers |  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true" />  
 Natural Language Processing (NLP) / Transformers / Recurrent Neural Networks (RNNs) / Long Short-Term Memory (LSTM) Networks  / Gated Recurrent Units (GRUs) | 1. [***Self-taught Natural Language Processing - Work In Progress***](https://github.com/thmolena/Self-taught-Natural-Language-Processing)  <br/> 2. [Long Short-Term Memory Networks in Payment Channel Networks](https://github.com/thmolena/LSTM-in-Payment-Channel-Network) <br/> 3. [Recurrent Neural Networks Time Series Demand Forecasting](https://github.com/thmolena/Recurrent-Neural-Networks-Time-Series-Demand-Forecasting)
