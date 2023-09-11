@@ -1,9 +1,9 @@
 ## Table of Contents
-- [Introduction](#Hi there)
+- [Introduction](#Hithere)
 - [Installation](#installation)
 
 
-<a name="Hi there"></a>
+<a name="Hithere"></a>
 ### 🌿 Hi there 🖐️
 
 
