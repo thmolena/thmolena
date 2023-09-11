@@ -17,10 +17,8 @@
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=graywhite"/> 
 
 
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=graywhite"/> 
-
-
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkqtheme=graywhite"/> 
+ <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=graywhite"/> 
+ <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
 
 
  <img align="center" src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> 
