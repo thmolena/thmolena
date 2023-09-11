@@ -13,11 +13,13 @@
 
 	🚀 Github Stats 
  
- <img align = "center" scr="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=shadow_red"> <br> <img align="center" src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> 
+ <img align = "center" scr="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=shadow_red"> 
+ 
+ <img align="center" src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> 
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/> 
 
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=shadow_red&hide_border=true&show_icons=true"/> 
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details username=thmolena&theme=shadow_red&hide_border=true&show_icons=true"/> 
 
 
 ### 🔑 Molena Nguyen's Coding Portfolio
