@@ -18,7 +18,7 @@
 <table class="center" style="width:100%;">
   <tr>
     <td align="center">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena" />
+              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&size_weight=0.5&count_weight=0.5" />
     </td>
     <td align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
