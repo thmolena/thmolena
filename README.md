@@ -1,4 +1,4 @@
-### 🌿 Welcome to my Github 🖐️ Table of Contents
+### 🌿 Welcome to my Github 🖐️
 - [Introduction](#Hithere)
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
@@ -7,7 +7,7 @@
 
 
 <a name="Hithere"></a>
-### 🌿 Hi there 🖐️
+### 🔬 About me 🖐
 
 
 
