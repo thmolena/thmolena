@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🖐️
 
 👋  I am Molena. I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA). 
 
