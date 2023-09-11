@@ -1,4 +1,6 @@
-### 🌿 Hi there 🖐️
+<header id="top">### 🌿 Hi there 🖐️</header>
+
+
 
 🧬 I am Molena. I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA). 
 
@@ -53,5 +55,5 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 In just 4 semesters of college, I completed Directed Studies in Mathematics, and every single one of the upper-level Mathematics courses that Berea College offered with only A's and A+'s. In the past 5 semesters, I had to fill in the overload coursework form in every single semester to take 6 full-credit courses, as Berea College students could self-register for only 4 full-credit courses.
 
 <div class="back-to-top-wrapper">
-    <a class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
+    <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
   </div>
