@@ -12,7 +12,7 @@
 
 
 <div class="github-card" data-github="thmolena" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 
 ### 🔑 Molena Nguyen's Coding Portfolio
 
