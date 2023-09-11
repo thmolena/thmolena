@@ -1,6 +1,8 @@
 ### Table of Contents
 - [Introduction](#Hithere)
-- [Github Stats ](#Githubstats)
+- [Github Stats](#Githubstats)
+- [Coding Portfolio](#Coding)
+- [Publications and Conferences](#Publications)
 
 
 <a name="Hithere"></a>
@@ -32,7 +34,7 @@
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
-
+<a name="Coding"></a>
 ### 🔑 Molena Nguyen's Coding Portfolio
 
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=graywhite"/>
@@ -52,7 +54,7 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
-
+<a name="Publications"></a>
 ### 📚 Publications and Conferences
 
 📕 My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was also on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
