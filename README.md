@@ -11,7 +11,7 @@
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Qualifying Exams in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
 
- 
+ https://streak-stats.demolab.com/?user=thmolena
 
 ### 🔑 Molena Nguyen's Coding Portfolio
 
