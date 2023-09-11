@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Introduction](#Hithere)
-- [Installation](#installation)
+- [Github Stats ](#Githubstats)
 
 
 <a name="Hithere"></a>
@@ -23,7 +23,7 @@
 🍀 Pronouns: She/Her/Hers 
 
 
-
+<a name="Githubstats"></a>
 ### 🚀 Github Stats 
   
 <img  src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/>  
