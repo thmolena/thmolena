@@ -31,9 +31,9 @@
 <a name="Githubstats"></a>
 ### 🚀 Github Stats 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=10&layout=donut&theme=shadow_red&hide_border=true&show_icons=true&hide_progress=true"/><img  src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" />  
+<img  src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" />  
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmolena&theme=graywhite"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=10&layout=donut&theme=shadow_red&hide_border=true&show_icons=true&hide_progress=true"/><img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmolena&theme=graywhite"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
