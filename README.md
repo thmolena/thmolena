@@ -1,4 +1,4 @@
-### 🖐️ Hi there
+###  Hi there 🖐️
 
 👋  I am Molena. I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA). 
 
@@ -13,7 +13,7 @@
 
 ### 🚀 Github Stats 
 
----------- | --------
+
 <img  src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> | <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=graywhite"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
   
 
