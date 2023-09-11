@@ -13,7 +13,7 @@
 
 🚀 Github Stats 
  
- <img align = "center" scr="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=default"> 
+ <img align = "center" scr="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=default"> 
 
  
  <img align="center" src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> 
