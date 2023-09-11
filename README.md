@@ -2,7 +2,7 @@
 
 👋 I am Molena. I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA). 
 
-🔭 I am interested in Natural Language Processing, Large Language Models, Machine Learning, Deep Learning, Data Science, Computational Biology, and Single-cell Biology. I am currently working on developing efficient algorithms for matrix computations in Parallel Computing, Scientific Computation, and Data Science.
+🔭 I am interested in Natural Language Processing, Large Language Models, Machine Learning, Deep Learning, Matrix Computations in Parallel Computing, Scientific Computation, Data Science, Computational Biology, and Single-cell Biology. I am currently working on developing efficient algorithms for matrix computations in Parallel Computing, Scientific Computation, and Data Science.
 
 💭  During my lab rotation in the Spring semester of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data. During my lab rotation in the Spring and Fall semester of 2022, I worked on novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
 
