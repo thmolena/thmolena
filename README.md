@@ -1,4 +1,4 @@
-### 🐱 Hi there 🖐️
+### 👑 Hi there 🖐️
 
 👋  I am Molena. I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA). 
 
@@ -18,7 +18,7 @@
   
 <img  src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/>  
 
-👑 Pronouns: She/Her/Hers 
+🍀 Pronouns: She/Her/Hers 
 
 📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
