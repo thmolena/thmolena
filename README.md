@@ -18,8 +18,6 @@
 
 
 
-<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
-
 ### 🚀 Github Stats 
   
 <img  src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/>  
@@ -31,6 +29,8 @@
 
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=graywhite"/>
  
+<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
+
 Topics/ Areas / Programming Languages | Projects 
 ---------- | -------- |  
 Natural Language Processing (NLP) / Transformers / Recurrent Neural Networks (RNNs) / Long Short-Term Memory (LSTM) Networks  / Gated Recurrent Units (GRUs) | <li/>[***Self-taught Natural Language Processing - Work In Progress***](https://github.com/thmolena/Self-taught-Natural-Language-Processing)  <li/> [Long Short-Term Memory Networks in Payment Channel Networks](https://github.com/thmolena/LSTM-in-Payment-Channel-Network) <li/> [Recurrent Neural Networks Time Series Demand Forecasting](https://github.com/thmolena/Recurrent-Neural-Networks-Time-Series-Demand-Forecasting)
