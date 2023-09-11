@@ -20,7 +20,7 @@
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=graywhite"/> 
 
 
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkqtheme=graywhite"/> 
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkqtheme=graywhite"/> 
 
 
  <img align="center" src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> 
