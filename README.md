@@ -7,7 +7,7 @@
 
 
 <a name="Hithere"></a>
-### 🔬 About me 🖐
+### 🔬 About me 👋
 
 
 
