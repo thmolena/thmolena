@@ -11,9 +11,8 @@
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
 
-🚀 Github Stats 
+### 🚀 Github Stats 
 
-           |
 ---------- | --------
 <img align="left" src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> | <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=graywhite"/> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/> | <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
   
