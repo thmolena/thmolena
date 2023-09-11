@@ -1,8 +1,9 @@
-### Table of Contents
+### 🌿 Hi there 🖐️ Table of Contents
 - [Introduction](#Hithere)
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
 - [Publications and Conferences](#Publications)
+- [Outreach activities](#Outreach)
 
 
 <a name="Hithere"></a>
@@ -62,6 +63,8 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 📕 My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was also on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
 
 📒 Conferences: During the Spring semester of 2022, I presented my single-author paper titled “Take-away Impartial Combinatorial Games on Different Geometric and Discrete Structures” at the SIAM Conference on Discrete Mathematics (DM22), the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM) 2022 (which was rescheduled due to serious concerns regarding the Omicron variant of COVID-19). During the Fall semester of 2021, I presented my single-author research at the Young Mathematicians Conference, (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), the Annual SIAM Central States Section Conference (CSS21), and the 4th Annual Meeting of the SIAM Texas Louisiana Section (TXLA21).
+
+<a name="Outreach"></a>
 
 ⌛️ Outreach activities: I have served as a SIAM Officer at the SIAM NCSU Chapter for two years (2022-2024). In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD ), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, mentorship.
 
