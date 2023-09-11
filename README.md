@@ -11,7 +11,7 @@
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Qualifying Exams in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
 
-🤔 I’m looking for help with ...
+🤔 Below is the summery of my 85 projects on Github.
 
 
 ⌛️ My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
