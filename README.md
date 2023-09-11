@@ -14,19 +14,10 @@
 🚀 Github Stats 
 
 
-<div style="display: flex; justify-content: space-between;">
-    <!-- Left-aligned images -->
-    <div style="display: flex;">
-<img align="left" src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> 
-     <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=graywhite"/> 
-    </div>
-    <!-- Right-aligned images -->
-    <div style="display: flex;">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/> 
-  <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
-    </div>
-</div>
-
+---------- | --------
+<img align="left" src="https://streak-stats.demolab.com/?user=thmolena&theme=shadow_red" /> |   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=graywhite"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&show_icons=true"/> | <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
+  
 
 
 ### 🔑 Molena Nguyen's Coding Portfolio
