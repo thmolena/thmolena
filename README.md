@@ -13,7 +13,7 @@
 
 ### 🔑 Molena Nguyen's Coding Portfolio
 
-This is a summary of 85 projects of Molena on Github.
+This is a summary of 85 projects on Github.
 
 Topics/ Areas / Programming Languages | Projects 
 ---------- | --------
