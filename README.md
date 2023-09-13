@@ -15,15 +15,15 @@
 
 🔭  I am interested in Natural Language Processing, Large Language Models, Machine Learning, Deep Learning, Matrix Computations in Parallel Computing, Scientific Computation, Data Science, Computational Biology, and Single-cell Biology. I am currently working on developing efficient algorithms for matrix computations in Parallel Computing, Scientific Computation, and Data Science.
 
-🔑  During my lab rotation in the Spring semester of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data. During my lab rotation in the Spring and Fall semester of 2022, I worked on designing novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
+🎯 During my lab rotation in the Spring semester of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data. During my lab rotation in the Spring and Fall semester of 2022, I worked on designing novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
 
-🌱 In Summer of 2022, I completed two Computer Science Graduate Summer Research Internships. One of my internships was in Time Series, Demand Forecasting with Uncertainty Quantification, Bertrand Competition, Payment Channel Network, and the other was in Spatio–temporal Graph Neural Networks, Time Series, Demand Forecasting and Clustering, Optimization for Linear–Quadratic Differential Games.
+🍀 In Summer of 2022, I completed two Computer Science Graduate Summer Research Internships. One of my internships was in Time Series, Demand Forecasting with Uncertainty Quantification, Bertrand Competition, Payment Channel Network, and the other was in Spatio–temporal Graph Neural Networks, Time Series, Demand Forecasting and Clustering, Optimization for Linear–Quadratic Differential Games.
 
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
 📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
-🍀 Pronouns: She/Her/Hers 
+🌱 Pronouns: She/Her/Hers 
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
@@ -39,7 +39,7 @@
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
 <a name="Coding"></a>
-### 🎯 Molena Nguyen's Coding Portfolio
+### 🔑 Molena Nguyen's Coding Portfolio
 
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=graywhite"/>
  
