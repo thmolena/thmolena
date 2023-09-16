@@ -36,7 +36,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=10&theme=shadow_red&hide_border=true&show_icons=true&count-private=true&hide_progress=true"/><img  src="https://streak-stats.demolab.com/?user=thmolena&hide_current_streak=true&hide_longest_streak=true&hide_border=true" />
 
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmolena&theme=graywhite"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite"/> 
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmolena&theme=graywhite&hide_border=true"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite&hide_border=true"/> 
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
