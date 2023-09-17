@@ -14,11 +14,11 @@
 🧬 I am [Molena](https://thmolena.github.io/molena/). I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA).
 I am currently working on developing efficient algorithms for matrix computations in Parallel Computing, with a focus on Hierarchical Matrices, Low-rank and Rank Structured matrices, along with their applications in Scientific Computing and Data Science.
 
-🔭  My interests are diverse and encompass a wide range of topics, including:
-<li> Natural Language Processing, Large Language Models
-<li> Numerical Linear Algebra, Randomized Algorithms, Numerical Matrix Analysis, Low-rank and Rank-structured Matrix Computations, Parallel Computing, Scientific Computing
-<li> Machine Learning, Deep Learning, Data Science
-<li> Computational Biology, Single-cell Biology
+🔭  My research interests are diverse and encompass a wide range of topics, including:
+<li> Natural Language Processing and Large Language Models
+<li> Randomized Numerical Linear Algebra, algorithms for matrix computations in Parallel Computing, with a focus on Hierarchical Matrices, Low-rank and Rank Structured matrices, along with their applications in Scientific Computing and Data Science.
+<li> Time-series Forecasting, Machine Learning, and Deep Learning
+<li> Computational Biology and Single-cell Biology
 </li>
  
 🎯 During my lab rotation in the Spring and Summer semester of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data. 
