@@ -20,7 +20,7 @@ I am currently working on efficient algorithms for matrix computations in Parall
 <li> Time-series Forecasting, Machine Learning, and Deep Learning
 <li> Computational Biology and Single-cell Biology
 </li>
-
+<br>
 
 🎯 During my lab rotation in the Spring and Summer semester of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data. 
 
