@@ -18,7 +18,7 @@ I am currently working on efficient algorithms for matrix computations in Parall
 🔭  My research interests are diverse and encompass a wide range of topics, including:
 <li> Natural Language Processing and Large Language Models
 <li> Randomized Numerical Linear Algebra, and efficient algorithms for matrix computations in Parallel Computing, with a focus on Hierarchical matrices, Low-rank and Rank Structured matrices, along with the approximation of kernel matrices that arise in Scientific Computing, Machine Learning, and Data Science
-<li> Time-series Forecasting, Machine Learning, and Deep Learning
+<li> Time-series Forecasting, Machine Learning, Deep Learning, and Data Science
 <li> Computational Biology and Single-cell Biology
 </li>
 <br>
