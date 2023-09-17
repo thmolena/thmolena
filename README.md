@@ -11,12 +11,13 @@
 
 
 
-🧬 I am [Molena](https://thmolena.github.io/molena/). I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA). I am currently working on developing efficient algorithms for matrix computations in Parallel Computing and their applications in Scientific Computation and Data Science.
+🧬 I am [Molena](https://thmolena.github.io/molena/). I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA).
+I am currently working on developing efficient algorithms for matrix computations in Parallel Computing, with a focus on Hierarchical Matrices, Low-rank and Rank Structured matrices, along with their applications in Scientific Computing and Data Science.
 
 🔭  My interests are diverse and encompass a wide range of topics, including:
 <li> Natural Language Processing, Large Language Models
+<li> Numerical Linear Algebra, Randomized Algorithms, Numerical Matrix Analysis, Low-rank and Rank-structured Matrix Computations, Parallel Computing, Scientific Computing
 <li> Machine Learning, Deep Learning, Data Science
-<li> Numerical Linear Algebra, Numerical Matrix Analysis, Matrix Computations in Parallel Computing, Scientific Computation
 <li> Computational Biology, Single-cell Biology
 </li>
  
