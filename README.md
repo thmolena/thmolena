@@ -16,7 +16,7 @@ I am currently working in Randomized Numerical Linear Algebra. I am developing e
 
 🔭 My research interests span across several domains, reflecting the diverse experiences I have gained from my ongoing research projects, past internships, and lab rotations, including:
 <li> Natural Language Processing and Large Language Models
-<li> Randomized Numerical Linear Algebra, and  efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in Scientific Computing, Machine Learning, and Data Science
+<li> Randomized Numerical Linear Algebra, and  efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in Machine Learning, Scientific Computing, and Data Science
 <li> Time-series Forecasting, Machine Learning, Deep Learning, and Data Science
 <li> Computational Biology and Single-cell Biology
 </li>
