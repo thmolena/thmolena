@@ -11,19 +11,18 @@
 
 
 
-🧬 I am [Molena](https://thmolena.github.io/molena/). I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA).
-I am currently working in Randomized Numerical Linear Algebra. I am developing efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in Machine Learning, Scientific Computing, and Data Science.
+🧬 I am [Molena](https://thmolena.github.io/molena/). I am an Applied Mathematics Ph.D. Candidate at North Carolina State University (Raleigh, North Carolina, USA). I am currently working in Randomized Numerical Linear Algebra for High Performance Scientific Computing. Specifically, I am developing efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in High Performance Scientific Computing, Data Mining, Machine Learning, and Data Science.
 
 🔭 My research interests span across several domains, reflecting the diverse experiences I have gained from my ongoing research projects, past internships, and lab rotations, including:
 <li> Natural Language Processing and Large Language Models
-<li> Randomized Numerical Linear Algebra, and  efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in Machine Learning, Scientific Computing, and Data Science
+<li> Randomized Numerical Linear Algebra for High Performance Scientific Computing, especially efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in High Performance Scientific Computing, Data Mining, Machine Learning, and Data Science
 <li> Time-series Forecasting, Machine Learning, Deep Learning, and Data Science
 <li> Computational Biology and Single-cell Biology
 </li>
 <br>
 
 
-🎯 During my lab rotation in the Spring and Summer semester of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data. 
+🎯 During my lab rotation in the Spring and Summer semester of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data.
 
 🔮 During my lab rotation in the Spring and Fall semester of 2022, I worked on designing novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
 
