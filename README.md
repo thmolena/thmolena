@@ -15,7 +15,7 @@
 
 🔭 My research interests span across several domains, reflecting my diverse experiences, from my ongoing research projects, to my lab rotations and my past internships, including:
 <li> Natural Language Processing and Large Language Models
-<li> Randomized Numerical Linear Algebra for High Performance Scientific Computing, with a concentration on efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in High Performance Scientific Computing, Data Mining, Machine Learning, and Data Science
+<li> Randomized Numerical Linear Algebra for High Performance Scientific Computing, with the focus on efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in High Performance Scientific Computing, Data Mining, Machine Learning, and Data Science
  <li> Time-series Forecasting, Machine Learning, Deep Learning, and Data Science
 <li> Computational Biology and Single-cell Biology
 </li>
