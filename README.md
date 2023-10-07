@@ -1,9 +1,9 @@
 ### 🌿 Welcome to my Github 🖐️
 - [Introduction](#Hithere)
 - [Research Experience](#Research)
+- [Publications and Conferences](#Publications)
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
-- [Publications and Conferences](#Publications)
 - [Outreach Activities](#Outreach)
 
 
