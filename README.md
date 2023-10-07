@@ -53,7 +53,7 @@
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
 <a name="Coding"></a>
-### 🔑 Molena Nguyen's Coding Portfolio
+### 🔑 Coding Portfolio
 
  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=graywhite"/>
 
