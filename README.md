@@ -40,8 +40,16 @@
 
 📈 During the Summer of 2022, I completed two Computer Science Graduate Summer Research Internships. My first internship was in Time Series, Demand Forecasting with Uncertainty Quantification, Bertrand Competition, Payment Channel Network. My second internship was in Spatio–temporal Graph Neural Networks, Time Series, Demand Forecasting and Clustering, Optimization for Linear–Quadratic Differential Games.
 
-<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
+
+<a name="Publications"></a>
+### 📚 Publications and Conferences
+
+📕 My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
+
+📒 Conferences: During the Spring semester of 2022, I presented my single-author paper titled “Take-away Impartial Combinatorial Games on Different Geometric and Discrete Structures” at the SIAM Conference on Discrete Mathematics (DM22), the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM) 2022 (which was rescheduled due to serious concerns regarding the Omicron variant of COVID-19). During the Fall semester of 2021, I presented my single-author research at the Young Mathematicians Conference, (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), the Annual SIAM Central States Section Conference (CSS21), and the 4th Annual Meeting of the SIAM Texas Louisiana Section (TXLA21).
+
+<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
 <a name="Githubstats"></a>
 ### 🚀 Github Stats 
@@ -68,15 +76,6 @@ Data Structures with C++ | <li/> [Binary Addition](https://github.com/thmolena/B
 JPMorgan Chase & Co. Software Engineering Virtual Experience |  <li/> [JPMorgan First Task](https://github.com/thmolena/JP-Morgan-Virtual-Internship-First-Task)  <li/> [JPMorgan Second Task](https://github.com/thmolena/JP-Morgan-Virtual-Internship-Second-Task)
 MATLAB | <li/> [Machine Learning in MATLAB](https://github.com/thmolena/Machine-Learning-MATLAB)  <li/> [Numerical Analysis in MATLAB](https://github.com/thmolena/Numerical-Analysis-in-MATLAB)
 Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/thmolena/Coding-practice-with-JavaScript)  <li/> [Coding practice with Python 1](https://github.com/thmolena/Python-Coding-Practice-1)  <li/> [Coding practice with Python 2](https://github.com/thmolena/Python-Coding-Practice-2)  <li/>[Coding practice with Python 3](https://github.com/thmolena/Python-Coding-Practice-3)   <li/> [Turtle Art](https://github.com/thmolena/Turtle-Art)  <li/> [Modules](https://github.com/thmolena/Practice-with-Modules)  <li/> [Mad Lib](https://github.com/thmolena/Mad-Lib)  <li/> [Adventure](https://github.com/thmolena/Adventure)  <li/> [Unit Testing](https://github.com/thmolena/Practice-with-Unit-Testing)  <li/> [Django Learning](https://github.com/thmolena/Django-Learning)  <li/> [Funky Functions](https://github.com/thmolena/Practice-with-Funcky-Functions)  <li/> [Making-boustrophedon](https://github.com/thmolena/Making-boustrophedon)  <li/> [Math Quiz on Cars](https://github.com/thmolena/Math-Quiz-on-Cars)   <li/>[Python Classes](https://github.com/thmolena/Python-Intro-to-Classes)  <li/> [Excel Visual Basic for Applications Projects](https://github.com/thmolena/Excel-Visual-Basic-for-Applications)
-
-<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
-
-<a name="Publications"></a>
-### 📚 Publications and Conferences
-
-📕 My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
-
-📒 Conferences: During the Spring semester of 2022, I presented my single-author paper titled “Take-away Impartial Combinatorial Games on Different Geometric and Discrete Structures” at the SIAM Conference on Discrete Mathematics (DM22), the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM) 2022 (which was rescheduled due to serious concerns regarding the Omicron variant of COVID-19). During the Fall semester of 2021, I presented my single-author research at the Young Mathematicians Conference, (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), the Annual SIAM Central States Section Conference (CSS21), and the 4th Annual Meeting of the SIAM Texas Louisiana Section (TXLA21).
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
