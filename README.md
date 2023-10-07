@@ -1,6 +1,6 @@
 ### 🌿 Welcome to my Github 🖐️
 - [Introduction](#Hithere)
-- [Research Interests](#Research)
+- [Research Experience](#Research)
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
 - [Publications and Conferences](#Publications)
@@ -23,7 +23,7 @@
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
 <a name="Research"></a>
-### 🔬 Research Interests
+### 🔬 Research Experience
 
 🔭 My research interests span across several domains, reflecting my diverse experiences from my ongoing research projects, my lab rotations, and my past internships, including:
 <li> Natural Language Processing and Large Language Models
