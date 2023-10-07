@@ -8,7 +8,7 @@
 
 
 <a name="Hithere"></a>
-### 🔬 About me 👋
+### 🦋 About me 👋
 
 
 
@@ -21,7 +21,7 @@
 👑 Pronouns: She/Her/Hers 
 
 <a name="Research"></a>
-### 🔬 Research Interests 👋
+### 🔬 Research Interests
 
 🔭 My research interests span across several domains, reflecting my diverse experiences from my ongoing research projects, my lab rotations, and my past internships, including:
 <li> Natural Language Processing and Large Language Models
