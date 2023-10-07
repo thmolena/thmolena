@@ -1,5 +1,6 @@
 ### 🌿 Welcome to my Github 🖐️
 - [Introduction](#Hithere)
+- [Research Interests](#Research)
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
 - [Publications and Conferences](#Publications)
@@ -12,6 +13,15 @@
 
 
 🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently working in Randomized Numerical Linear Algebra for High Performance Scientific Computing. Specifically, I am developing efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in High Performance Scientific Computing, Data Mining, Machine Learning, and Data Science.
+
+🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
+
+📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
+
+👑 Pronouns: She/Her/Hers 
+
+<a name="Research"></a>
+### 🔬 Research Interests 👋
 
 🔭 My research interests span across several domains, reflecting my diverse experiences from my ongoing research projects, my lab rotations, and my past internships, including:
 <li> Natural Language Processing and Large Language Models
@@ -27,12 +37,6 @@
 🔮 During my lab rotation in the Spring and Fall semester of 2022, I worked on designing novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
 
 🧩 During the summer, I completed two Computer Science Graduate Summer Research Internships. My first internship was in Time Series, Demand Forecasting with Uncertainty Quantification, Bertrand Competition, Payment Channel Network. My second internship was in Spatio–temporal Graph Neural Networks, Time Series, Demand Forecasting and Clustering, Optimization for Linear–Quadratic Differential Games.
-
-🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
-
-📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
-
-👑 Pronouns: She/Her/Hers 
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
