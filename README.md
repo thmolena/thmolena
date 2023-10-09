@@ -25,21 +25,19 @@
 <a name="Research"></a>
 ### 🔬 Research Experience
 
-🔭 My research interests span across several domains, reflecting my diverse experiences from my ongoing research projects, my lab rotations, and my past internships, including:
-<li> Natural Language Processing and Large Language Models
+🔭 My research areas span across several domains, reflecting my diverse experiences from my ongoing research projects, my lab rotations, and my past internships, including:
 <li> Randomized Numerical Linear Algebra for High Performance Scientific Computing, with the focus on efficient algorithms for matrix computations in Parallel Computing, including, but not limited to Hierarchical matrices, Low-rank and Rank Structured matrices, in addition to the approximation of kernel matrices, with their applications in High Performance Scientific Computing, Data Mining, Machine Learning, and Data Science
+<li> Natural Language Processing and Large Language Models
  <li> Time-series Forecasting, Machine Learning, Deep Learning, and Data Science
 <li> Computational Biology and Single-cell Biology
 </li>
 <br>
 
-
 🎯 During my lab rotation in the Spring semester of 2023 and Summer of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data.
-
-📊 During my lab rotation in the Spring and Fall semester of 2022, I worked on designing novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
 
 📈 During the Summer of 2022, I completed two Computer Science Graduate Summer Research Internships. My first internship was in Time Series, Demand Forecasting with Uncertainty Quantification, Bertrand Competition, Payment Channel Network. My second internship was in Spatio–temporal Graph Neural Networks, Time Series, Demand Forecasting and Clustering, Optimization for Linear–Quadratic Differential Games.
 
+📊 During my lab rotation in the Spring and Fall semester of 2022, I worked on designing novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
