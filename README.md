@@ -81,10 +81,10 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 
 <a name="Outreach"></a>
 
-### ⌛️ Outreach activities
+### ⌛️ Outreach Activities
 ✨ I have served as a SIAM Officer at the SIAM NCSU Chapter for two years (2022-2024). In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD ), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, and mentorship.
 
-### 🧸 Fun fact
+### 🧸 Fun Fact
 💭 At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for the Fall semester of 2021, I was honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (starting in the Fall semester of 2021). During the Spring semester of 2021, I participated in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural and relatively small 4-year Liberal Arts College to the prestigious Applied Mathematics PhD Program. 
 
 In the Fall semester of 2018, right after receiving a High School Diploma, I attended a rural and relatively small 4-year Liberal Arts College in Kentucky (Berea College). In fewer than three years, from the starting point of 0 transfer credit, after changing my major(s) for four times, I graduated from Berea College with a MAGNA CUM LAUDE Bachelor's Degree in Mathematics (with a Computer Science minor), with a Major GPA of 4.0/ 4.0.
