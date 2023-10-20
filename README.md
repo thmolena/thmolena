@@ -12,7 +12,7 @@
 
 
 
-🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently developing efficient algorithms in Randomized Numerical Linear Algebra for kernel matrix approximation on GPU–Accelerated Computing and Parallel Computing, with applications in Scientific Computing, and High Performance Computing, including, but not limited to Hierarchical matrices, Low–Rank and Rank Structured matrices, Hierarchically Off–Diagonal Low–Rank matrices, and Hierarchically Semi–Separable matrices, in addition to the applications to kernel methods in Deep Learning, Machine Learning, Data Mining, and Data Science.
+🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently developing efficient algorithms in Randomized Numerical Linear Algebra for kernel matrix approximation on GPU Accelerated Computing and Parallel Computing, with applications in Scientific Computing, and High Performance Computing. My work also extends to the application of Hierarchical matrices, Low-Rank and Rank Structured matrices, Hierarchically Off-Diagonal Low-Rank matrices and Hierarchically Semi-Separable matrices to kernel methods in Deep Learning, Machine Learning, Data Mining, and Data Science.
 
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
@@ -26,7 +26,7 @@
 ### 🔬 Research Experience
 
 🔭 My research interests span across several domains, reflecting my diverse experiences from my ongoing research projects, my lab rotations, and my past internships, including:
-<li> Efficient algorithms in Randomized Numerical Linear Algebra for kernel matrix approximation on GPU–Accelerated Computing, and Parallel Computing, with applications in Scientific Computing, and High Performance Computing, including, but not limited to Hierarchical matrices, Low–Rank and Rank–Structured matrices, Hierarchically Off–Diagonal Low–Rank matrices, and Hierarchically Semi–Separable matrices, in addition to the applications to kernel methods in Deep Learning, Machine Learning, Data Science
+<li> Efficient algorithms in Randomized Numerical Linear Algebra for kernel matrix approximation on GPU–Accelerated Computing, and Parallel Computing, with applications in Scientific Computing, and High Performance Computing, in addition to applications of Hierarchical matrices, Low–Rank and Rank–Structured matrices, Hierarchically Off–Diagonal Low–Rank matrices, and Hierarchically Semi–Separable matrices to kernel methods in Deep Learning, Machine Learning, Data Science
 <li> Natural Language Processing and Large Language Models
 <li> Time-series Forecasting, Machine Learning, Deep Learning, and Data Science
 <li> Computational Biology and Single-cell Biology
