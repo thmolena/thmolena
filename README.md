@@ -12,7 +12,7 @@
 
 
 
-🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently developing efficient algorithms in Randomized Numerical Linear Algebra for kernel matrix approximation on GPU Accelerated Computing and Parallel Computing, with applications in Scientific Computing, and High Performance Computing. My work also extends to the application of Hierarchical matrices, Low-Rank and Rank Structured matrices, Hierarchically Off-Diagonal Low-Rank matrices and Hierarchically Semi-Separable matrices to kernel methods in Deep Learning, Machine Learning, Data Mining, and Data Science.
+🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently developing efficient algorithms in Numerical Linear Algebra for kernel matrix approximation on GPU-Accelerated Computing and Parallel Computing, with applications in Supercomputing, Scientific Computing, and High Performance Computing, and Data Science.
 
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
@@ -26,7 +26,7 @@
 ### 🔬 Research Experience
 
 🔭 My research interests span across several domains, reflecting my diverse experiences from my ongoing research projects, my lab rotations, and my past internships, including:
-<li> Efficient algorithms in Randomized Numerical Linear Algebra for kernel matrix approximation on GPU–Accelerated Computing, and Parallel Computing, with applications in Scientific Computing, and High Performance Computing, in addition to applications of Hierarchical matrices, Low–Rank and Rank–Structured matrices, Hierarchically Off–Diagonal Low–Rank matrices, and Hierarchically Semi–Separable matrices to kernel methods in Deep Learning, Machine Learning, Data Science
+<li> Efficient algorithms in Randomized Numerical Linear Algebra for kernel matrix approximation on GPU–Accelerated Computing, and Parallel Computing, with applications in Scientific Computing, and High Performance Computing, in addition to the applications of Hierarchical matrices, Low–Rank and Rank–Structured matrices, Hierarchically Off–Diagonal Low–Rank matrices, and Hierarchically Semi–Separable matrices to kernel methods in Deep Learning, Machine Learning, and Data Science
 <li> Natural Language Processing and Large Language Models
 <li> Time-series Forecasting, Machine Learning, Deep Learning, and Data Science
 <li> Computational Biology and Single-cell Biology
@@ -47,7 +47,7 @@
 
 📕 My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
 
-📒 Conferences: During the Spring semester of 2022, I presented my single-author paper titled “Take-away Impartial Combinatorial Games on Different Geometric and Discrete Structures” at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM) 2022 (which was rescheduled due to serious concerns regarding the Omicron variant of COVID-19). During the Fall semester of 2021, I presented my single-author research at the Young Mathematicians Conference, (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
+📒 Conferences: During the Spring semester of 2022, I presented my single-author paper titled “Take-away Impartial Combinatorial Games on Different Geometric and Discrete Structures” at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22), which was rescheduled due to serious concerns regarding the Omicron variant of COVID-19. During the Fall semester of 2021, I presented my single-author research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
