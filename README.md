@@ -25,6 +25,8 @@
 <a name="Research"></a>
 ### 🔬 Research Experience
 
+🔭 Under the supervision of Professor Chao Chen (Stanford University, 2018), I am currently developing efficient algorithms in Numerical Linear Algebra for kernel matrix approximation on GPU-Accelerated Computing and Parallel Computing, with applications in Supercomputing, Scientific Computing, and High Performance Computing, and Data Science.
+
 🎯 During my lab rotation in the Spring semester of 2023 and Summer of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data.
 
 📈 During the Summer of 2022, I completed two Computer Science Graduate Summer Research Internships. My first internship was in Time Series, Demand Forecasting with Uncertainty Quantification, Bertrand Competition, Payment Channel Network. My second internship was in Spatio–temporal Graph Neural Networks, Time Series, Demand Forecasting and Clustering, Optimization for Linear–Quadratic Differential Games.
