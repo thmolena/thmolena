@@ -25,14 +25,6 @@
 <a name="Research"></a>
 ### 🔬 Research Experience
 
-🔭 My research interests span across several domains, reflecting my diverse experiences from my ongoing research projects, my lab rotations, and my past internships, including:
-<li> Efficient algorithms in Randomized Numerical Linear Algebra for kernel matrix approximation on GPU–Accelerated Computing, and Parallel Computing, with applications in Scientific Computing, and High Performance Computing, in addition to the applications of Hierarchical matrices, Low–Rank and Rank–Structured matrices, Hierarchically Off–Diagonal Low–Rank matrices, and Hierarchically Semi–Separable matrices to kernel methods in Deep Learning, Machine Learning, and Data Science
-<li> Natural Language Processing and Large Language Models
-<li> Time-series Forecasting, Machine Learning, Deep Learning, and Data Science
-<li> Computational Biology and Single-cell Biology
-</li>
-<br>
-
 🎯 During my lab rotation in the Spring semester of 2023 and Summer of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data.
 
 📈 During the Summer of 2022, I completed two Computer Science Graduate Summer Research Internships. My first internship was in Time Series, Demand Forecasting with Uncertainty Quantification, Bertrand Competition, Payment Channel Network. My second internship was in Spatio–temporal Graph Neural Networks, Time Series, Demand Forecasting and Clustering, Optimization for Linear–Quadratic Differential Games.
