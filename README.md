@@ -29,7 +29,7 @@ University, passed the Ph.D. Qualifying Exams, and completed all coursework requ
 <a name="Research"></a>
 ### 🔬 Research Experience
 
-🔭 Starting from the Fall semester of 2023, I have been developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra on
+🔭 Since the Fall semester of 2023, I have been developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra on
 Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data
 Science, Supercomputing, Scientific Computing, and High–Performance Computing.
 
