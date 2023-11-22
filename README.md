@@ -18,7 +18,7 @@ Parallel Computing for Large–scale Kernel Approximation, with applications in 
 Science, Supercomputing, Scientific Computing, and High–Performance Computing.
 
 🎓 Previously, I received the degree of Master of Science in Applied Mathematics from North Carolina State
-University, passed the Ph.D. Qualifying Exams, and completed all coursework required for the Ph.D. program.
+University, passed the Ph.D. Qualifying Exams, and completed all coursework required for the Applied Mathematics Ph.D. program.
 
 📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
