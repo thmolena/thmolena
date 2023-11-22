@@ -12,9 +12,22 @@
 
 
 
-🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently developing efficient GPU-Accelerated Solvers and Randomized Numerical Linear Algebra algorithms on Parallel Computing for Large-scale Kernel Approximation, with applications in Machine Learning, Data Science, Supercomputing, Scientific Computing, and High Performance Computing.
+🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third–year Ph.D. Student in Applied Mathematics at North Carolina State
+University (Raleigh, North Carolina, U.S.) Under the supervision of Professor Chao Chen (Stanford University,
+2018), I am developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra on
+Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data
+Science, Supercomputing, Scientific Computing, and High–Performance Computing.
 
-🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
+🎓 Earlier, I received the degree of Master of Science in Applied Mathematics from North Carolina State
+University, passed the Ph.D. Qualifying Exams, and completed all coursework required for the Ph.D. program.
+Consequently, starting from the Fall semester of 2023, I am focused intently on intensive research to
+complete my Ph.D. Thesis in utilizing batched dense linear algebra on GPUs to solve large dense linear
+systems employing a multilevel structure of low–rank off–diagonal blocks arising from diverse applications,
+ranging from the kernel approximation in machine learning, to the integral equations in physics and
+engineering. These GPU–Accelerated factorization and solvers will leverage the full potential of GPU
+architectures for computationally intensive tasks, to derive fast solutions, in almost linear time with the matrix
+size, under fixed numerical ranks. This approach will help explore innovative ways to push the boundaries of
+what is possible in scientific computing and high–performance computing.
 
 📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
@@ -25,7 +38,9 @@
 <a name="Research"></a>
 ### 🔬 Research Experience
 
-🔭 I am currently developing efficient GPU-Accelerated Linear Solvers and Randomized Numerical Linear Algebra algorithms on GPU Parallel Computing for Large-scale Kernel Approximation, with applications in Machine Learning, Data Science, Supercomputing, Scientific Computing, and High Performance Computing.
+🔭 I am developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra on
+Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data
+Science, Supercomputing, Scientific Computing, and High–Performance Computing.
 
 🎯 During my lab rotation in the Spring semester of 2023 and Summer of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data.
 
