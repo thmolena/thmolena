@@ -13,8 +13,7 @@
 
 
 🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third–year Ph.D. Student in Applied Mathematics at North Carolina State
-University (Raleigh, North Carolina, U.S.) Under the supervision of Professor Chao Chen (Stanford University,
-2018), I am developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra on
+University (Raleigh, North Carolina, U.S.) I am currently developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra on
 Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data
 Science, Supercomputing, Scientific Computing, and High–Performance Computing.
 
