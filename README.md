@@ -12,7 +12,7 @@
 
 
 
-🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently developing efficient GPU-Accelerated Linear Solvers and Randomized Numerical Linear Algebra algorithms on GPU Parallel Computing for Large-scale Kernel Approximation, with applications in Machine Learning, Data Science, Supercomputing, Scientific Computing, and High Performance Computing.
+🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently developing efficient GPU-Accelerated Solvers and Randomized Numerical Linear Algebra algorithms on GPU Parallel Computing for Large-scale Kernel Approximation, with applications in Machine Learning, Data Science, Supercomputing, Scientific Computing, and High Performance Computing.
 
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
