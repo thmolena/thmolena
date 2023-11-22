@@ -19,14 +19,6 @@ Science, Supercomputing, Scientific Computing, and High–Performance Computing.
 
 🎓 Earlier, I received the degree of Master of Science in Applied Mathematics from North Carolina State
 University, passed the Ph.D. Qualifying Exams, and completed all coursework required for the Ph.D. program.
-Consequently, starting from the Fall semester of 2023, I am focused intently on intensive research to
-complete my Ph.D. Thesis in utilizing batched dense linear algebra on GPUs to solve large dense linear
-systems employing a multilevel structure of low–rank off–diagonal blocks arising from diverse applications,
-ranging from the kernel approximation in machine learning, to the integral equations in physics and
-engineering. These GPU–Accelerated factorization and solvers will leverage the full potential of GPU
-architectures for computationally intensive tasks, to derive fast solutions, in almost linear time with the matrix
-size, under fixed numerical ranks. This approach will help explore innovative ways to push the boundaries of
-what is possible in scientific computing and high–performance computing.
 
 📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
