@@ -12,7 +12,7 @@
 
 
 
-🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently developing efficient algorithms in Numerical Linear Algebra for kernel matrix approximation on GPU-Accelerated Computing and Parallel Computing, with applications in Supercomputing, Scientific Computing, and High Performance Computing, and Data Science.
+🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third-year Applied Mathematics Ph.D. Student at North Carolina State University (Raleigh, North Carolina, USA). I am currently developing efficient GPU-Accelerated Linear Solvers and Randomized Numerical Linear Algebra algorithms on GPU Parallel Computing for Large-scale Kernel Approximation, with applications in Machine Learning, Data Science, Supercomputing, Scientific Computing, and High Performance Computing.
 
 🎓 In May of 2023, I received the degree of Master of Science in Applied Mathematics from North Carolina State University. I also successfully passed my Ph.D. Written Qualifying Examination in Matrix Theory, Abstract Algebra, Linear Algebra, and Lie Algebra.
 
@@ -25,7 +25,7 @@
 <a name="Research"></a>
 ### 🔬 Research Experience
 
-🔭 Under the supervision of Professor Chao Chen, I am currently developing efficient algorithms in Numerical Linear Algebra for kernel matrix approximation on GPU-Accelerated Computing and Parallel Computing, with applications in Supercomputing, Scientific Computing, and High Performance Computing, and Data Science.
+🔭 I am currently developing efficient GPU-Accelerated Linear Solvers and Randomized Numerical Linear Algebra algorithms on GPU Parallel Computing for Large-scale Kernel Approximation, with applications in Machine Learning, Data Science, Supercomputing, Scientific Computing, and High Performance Computing.
 
 🎯 During my lab rotation in the Spring semester of 2023 and Summer of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data.
 
