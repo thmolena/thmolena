@@ -12,13 +12,9 @@
 
 
 
-🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third–year Ph.D. Student in Applied Mathematics at North Carolina State
-University (Raleigh, North Carolina, U.S.) I am currently developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra on
-Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data
-Science, Supercomputing, Scientific Computing, and High–Performance Computing.
+🧬 I am [Molena](https://thmolena.github.io/molena/). I am a Third–year Ph.D. Student in Applied Mathematics at North Carolina State University (Raleigh, North Carolina, U.S.) I am currently developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra algorithms on Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data Science, Scientific Computing, and High–Performance Computing.
 
-🎓 Previously, I received the degree of Master of Science in Applied Mathematics from North Carolina State
-University, passed the Ph.D. Qualifying Exams, and completed all coursework required for the Applied Mathematics Ph.D. program.
+🎓 Previously, I received the degree of Master of Science in Applied Mathematics from North Carolina State University, passed the Ph.D. Qualifying Exams, and completed all coursework required for the Ph.D. program. 
 
 📫 How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
@@ -29,13 +25,17 @@ University, passed the Ph.D. Qualifying Exams, and completed all coursework requ
 <a name="Research"></a>
 ### 🔬 Research Experience
 
-🔭 Since the Fall semester of 2023, I have been developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra on
-Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data
-Science, Supercomputing, Scientific Computing, and High–Performance Computing.
+🔭 I am currently developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear
+Algebra algorithms on Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data Science, Scientific Computing, and High–Performance Computing.
 
-🎯 During my lab rotation in the Spring semester of 2023 and Summer of 2023, I worked on the applications of Neural Networks, Deep Learning, Machine Learning, Dimensionality Reduction and Topological Data Analysis in Computational Biology and Single cell Biology. Specifically, I was solving metric learning, data alignment, data integration, and trajectory inference problems for Spatial Transcriptomics, Single-cell Transcriptomics, Single-cell Multi-omics, and Single-cell Genomic Data.
+🏆 Earlier, I received two National Science Foundation Funded Ph.D. Summer Research Internships to
+work in two lab rotations, one in Computational Biology, and another in Computer Science, Electrical and
+Computer Engineering. During these internships, I learned how to ultilize the High–Performance Computing
+clusters, and the GPUs to solve different problems.
 
-📈 During the Summer of 2022, I completed two Computer Science Graduate Summer Research Internships. My first internship was in Time Series, Demand Forecasting with Uncertainty Quantification, Bertrand Competition, Payment Channel Network. My second internship was in Spatio–temporal Graph Neural Networks, Time Series, Demand Forecasting and Clustering, Optimization for Linear–Quadratic Differential Games.
+🎯 In the Summer of 2023, I worked on solving metric learning, data alignment, and dimensionality reduction problems for Single-cell Transcriptomics, Single–cell Multi–omics, and Single–cell Genomic Data. I employed North Carolina State University’s High–Performance Computing clusters on raw single–cell RNA sequencing data containing millions of cells and genes, to speed up, firstly, the data preprocessing, including quality control, filtering, normalization, visualization, then secondly, the performance of adaptive metric learning and dimensionality reduction algorithms.
+
+📈 In the Summer of 2022,  I used the GPUs to expedite the implementation of PyTorch on datasets from Harvard Dataverse, to compare the performance of different adaptive time series models from Recurrent Neural Networks and Long Short–Term Memory Networks, all with and without Attention and Dropout Regularization.
 
 📊 During my lab rotation in the Spring and Fall semester of 2022, I worked on designing novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
 
