@@ -12,30 +12,35 @@
 
 
 
-▪️ I am [Molena](https://thmolena.github.io/molena/). Earlier, I received the degree of Master of Science in Applied Mathematics from North Carolina State University, passed the Ph.D. Qualifying Exams, and completed all coursework required for the Ph.D. program. Currently, I am developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra algorithms on Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data Science, Scientific Computing, and High–Performance Computing.
+● I am [Molena](https://thmolena.github.io/molena/). I am a Third–year Ph.D. Student in Applied Mathematics at North Carolina State University (Raleigh, North Carolina, U.S.)
+Currently, I am developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra algorithms on Parallel Computing
+for Large–scale Kernel Approximation, with applications in Machine Learning, Data Science, Scientific Computing, and High–Performance Computing.
 
-▪️ How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
+● Earlier, I received the degree of Master of Science in Applied Mathematics from North Carolina State University, passed the Ph.D. Qualifying Exams,
+and completed all coursework required for the Ph.D. program.
 
-▪️ Pronouns: She/Her/Hers 
+● How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
+
+● Pronouns: She/Her/Hers 
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
 <a name="Research"></a>
 ### 🔬 Research Experience
 
-▪️ I am currently developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear
-Algebra algorithms on Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data Science, Scientific Computing, and High–Performance Computing.
+● Currently, I am developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra algorithms on Parallel Computing
+for Large–scale Kernel Approximation, with applications in Machine Learning, Data Science, Scientific Computing, and High–Performance Computing.
 
-▪️ Previously, I received two National Science Foundation Funded Ph.D. Summer Research Internships to
+● Previously, I received two National Science Foundation Funded Ph.D. Summer Research Internships to
 work in two lab rotations, one in Computational Biology, and another in Computer Science, Electrical and
 Computer Engineering. During these internships, I learned how to ultilize the High–Performance Computing
 clusters, and the GPUs to solve different problems.
 
-▪️ In the Summer of 2023, I worked on solving metric learning, data alignment, and dimensionality reduction problems for Single-cell Transcriptomics, Single–cell Multi–omics, and Single–cell Genomic Data. I employed North Carolina State University’s High–Performance Computing clusters on raw single–cell RNA sequencing data containing millions of cells and genes, to speed up, firstly, the data preprocessing, including quality control, filtering, normalization, visualization, then secondly, the performance of adaptive metric learning and dimensionality reduction algorithms.
+● In the Summer of 2023, I worked on solving metric learning, data alignment, and dimensionality reduction problems for Single-cell Transcriptomics, Single–cell Multi–omics, and Single–cell Genomic Data. I employed North Carolina State University’s High–Performance Computing clusters on raw single–cell RNA sequencing data containing millions of cells and genes, to speed up, firstly, the data preprocessing, including quality control, filtering, normalization, visualization, then secondly, the performance of adaptive metric learning and dimensionality reduction algorithms.
 
-▪️ In the Summer of 2022,  I used the GPUs to expedite the implementation of PyTorch on datasets from Harvard Dataverse, to compare the performance of different adaptive time series models from Recurrent Neural Networks and Long Short–Term Memory Networks, all with and without Attention and Dropout Regularization.
+● In the Summer of 2022,  I used the GPUs to expedite the implementation of PyTorch on datasets from Harvard Dataverse, to compare the performance of different adaptive time series models from Recurrent Neural Networks and Long Short–Term Memory Networks, all with and without Attention and Dropout Regularization.
 
-▪️ During my lab rotation in the Spring and Fall semester of 2022, I worked on designing novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
+● During my lab rotation in the Spring and Fall semester of 2022, I worked on designing novel Spatio–Temporal Unsupervised Learning algorithms with an application on County–level Colorectal Cancer Incidence Data.
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
@@ -43,9 +48,9 @@ clusters, and the GPUs to solve different problems.
 <a name="Publications"></a>
 ### 📚 Publications and Conferences
 
-📕 My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
+● My single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” was on ArXiv, DOI: 10.48550/ARXIV.2203.09696.
 
-📒 Conferences: During the Spring semester of 2022, I presented my single-author paper titled “Take-away Impartial Combinatorial Games on Different Geometric and Discrete Structures” at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22), which was rescheduled due to serious concerns regarding the Omicron variant of COVID-19. During the Fall semester of 2021, I presented my single-author research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
+● Conferences: During the Spring semester of 2022, I presented my single-author paper titled “Take-away Impartial Combinatorial Games on Different Geometric and Discrete Structures” at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22), which was rescheduled due to serious concerns regarding the Omicron variant of COVID-19. During the Fall semester of 2021, I presented my single-author research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
@@ -80,10 +85,10 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 <a name="Outreach"></a>
 
 ### ⌛️ Outreach Activities
-✨ I have served as a Society of Industrial & Applied Mathematics (SIAM) Officer at the Society of Industrial & Applied Mathematics North Carolina State University Chapter for two years (2022-2024). In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, and mentorship.
+● I have served as a Society of Industrial & Applied Mathematics (SIAM) Officer at the Society of Industrial & Applied Mathematics North Carolina State University Chapter for two years (2022-2024). In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, and mentorship.
 
 ### 🧸 Fun Fact
-💭 At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for the Fall semester of 2021, I was honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (starting in the Fall semester of 2021). During the Spring semester of 2021, I participated in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural and relatively small 4-year Liberal Arts College to the prestigious Applied Mathematics PhD Program. 
+● At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for the Fall semester of 2021, I was honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (starting in the Fall semester of 2021). During the Spring semester of 2021, I participated in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural and relatively small 4-year Liberal Arts College to the prestigious Applied Mathematics PhD Program. 
 
 In the Fall semester of 2018, right after receiving a High School Diploma, I attended a rural and relatively small 4-year Liberal Arts College in Kentucky (Berea College). In fewer than three years, from the starting point of 0 transfer credit, after changing my major(s) for four times, I graduated from Berea College with a MAGNA CUM LAUDE Bachelor's Degree in Mathematics (with a Computer Science minor), with a Major GPA of 4.0/ 4.0.
 
