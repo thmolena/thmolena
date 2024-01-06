@@ -12,8 +12,7 @@
 
 
 
-▪️ I am [Molena](https://thmolena.github.io/molena/). I am a Third–year Ph.D. Student in Applied Mathematics at North Carolina State University (Raleigh, North Carolina, U.S.) Currently, I am developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra algorithms on Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data Science, Scientific Computing, and High–Performance Computing.
-
+▪️ I am [Molena](https://thmolena.github.io/molena/). I am a Third–year Ph.D. Student in Applied Mathematics at North Carolina State University (Raleigh, North Carolina, U.S.) Currently, I am developing efficient GPU–Accelerated Solvers and Randomized Numerical Linear Algebra algorithms on Parallel Computing for Large–scale Kernel Approximation, with applications in Machine Learning, Data Science, Scientific Computing, and High–Performance Computing. In 2024, I am attending the 2024 SIAM Conference on Parallel Processing for Scientific Computing, and the 2024 SIAM Annual Meeting.
 
 ▪️ How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
