@@ -31,7 +31,9 @@
 <a name="Publications"></a>
 ### 📚 Publications and Conferences
 
-▪️ I was fortunate to be given the opportunities to present my single–author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” (DOI: 10.48550/ARXIV.2203.09696) at six different SIAM conferences. During the Spring semester of 2022, I presented my research at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22). During the Fall semester of 2021, I presented my research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
+▪️ I was fortunate to be given the opportunities to present my single–author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” (DOI: 10.48550/ARXIV.2203.09696) at six different SIAM conferences. 
+
+▪️ During the Spring semester of 2022, I presented my research at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22). During the Fall semester of 2021, I presented my research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
