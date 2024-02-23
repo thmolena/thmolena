@@ -12,7 +12,7 @@
 
 
 
-▪️ I am Molena. Previously, I passed the Ph.D. Qualifying Exams, and completed all coursework required for the Ph.D. program. Currently, I am developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering.
+▪️ I am Molena. Previously, I passed the Ph.D. Qualifying Exams, and completed all coursework required for the Ph.D. program in Applied Mathematics. Currently, I am developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering.
 
 ▪️ How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
