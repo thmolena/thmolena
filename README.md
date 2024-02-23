@@ -68,7 +68,7 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 <a name="Outreach"></a>
 
 ### ⌛️ Outreach Activities
-▪️ Regarding my future career pursuit, I am interested in contributing to collaborative efforts that harness the power of GPUs for scientific and computational advancements. 
+▪️ Regarding my career pursuit, I am interested in contributing to collaborative efforts that harness the power of GPUs for scientific and computational advancements. 
 
 ▪️ Regarding my leadership role, I have been a representative (as a Webmaster) for the Society of Industrial Applied Mathematics (SIAM) at the North Carolina State University (NCSU) Student Chapter since the Fall semester of 2022. In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, and mentorship.
 
