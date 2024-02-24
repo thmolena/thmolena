@@ -10,8 +10,6 @@
 <a name="Hithere"></a>
 ### 🍀 About Me 👋
 
-
-
 ▪️ I am Molena. Previously, I passed the Ph.D. Qualifying Exams, and completed the coursework requirements for the Ph.D. program in Applied Mathematics at North Carolina State University. Currently, I am developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering.
 
 ▪️ How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
@@ -23,7 +21,7 @@
 <a name="Research"></a>
 ### 🔬 Research Experience
 
-▪️ Regarding my career pursuit, I am interested in contributing to collaborative efforts that harness the power of GPUs for scientific and computational advancements. I am presenting my research titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24).
+▪️ I am interested in contributing to collaborative efforts that harness the power of GPUs for scientific and computational advancements. I am presenting my research titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24).
 
 ▪️ Earlier, I received two National Science Foundation Funded Ph.D. Research Internships to work in two different lab rotations. During these two internships, I learned how to utilize the High Performance Computing clusters, and the GPUs to solve problems in different fields, from Computational Biology, to Computer Science, Electrical, and Computer Engineering.
 
@@ -33,7 +31,7 @@
 <a name="Publications"></a>
 ### 📚 Publications and Conferences
 
-▪️ Previously, I was fortunate to receive the opportunities to present my single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” (DOI: 10.48550/ARXIV.2203.09696) at six different SIAM conferences. During the Spring semester of 2022, I presented that research at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22). During the Fall semester of 2021, I presented that research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
+▪️  Previously, I was fortunate to receive the opportunities to present my single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” (DOI: 10.48550/ARXIV.2203.09696) at six different SIAM conferences. During the Spring semester of 2022, I presented that research at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22). During the Fall semester of 2021, I presented that research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21). 
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
@@ -68,7 +66,7 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 <a name="Outreach"></a>
 
 ### ⌛️ Outreach Activities
-▪️ Regarding my leadership role, I have been a representative (as a Webmaster) for the Society of Industrial Applied Mathematics (SIAM) at the North Carolina State University (NCSU) Student Chapter since the Fall semester of 2022. In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, and mentorship.
+▪️ I have been a representative (as a Webmaster) for the Society of Industrial Applied Mathematics (SIAM) at the North Carolina State University (NCSU) Student Chapter since the Fall semester of 2022. In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health.In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, and mentorship.
 
 ### 🧸 Fun Fact
 ▪️ At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for the Fall semester of 2021, I was honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (starting in the Fall semester of 2021). During the Spring semester of 2021, I participated in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural and relatively small 4-year Liberal Arts College to the prestigious Applied Mathematics PhD Program. 
