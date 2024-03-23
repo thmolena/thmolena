@@ -10,7 +10,7 @@
 <a name="Hithere"></a>
 ### 🍀 About Me 👋
 
-▪️ I am Molena. Previously, I passed the Ph.D. Qualifying Exams, and completed the coursework requirements for the Ph.D. program in Applied Mathematics at North Carolina State University. Currently, I am developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering.
+▪️ I am Molena. I am currently developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering. Previously, I passed the Ph.D. Qualifying Exams, and completed a minimum of 72 graduate credit hours beyond the Bachelor's Degree required for the Doctor of Philosophy Degree in Applied Mathematics at North Carolina State University.
 
 ▪️ How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
