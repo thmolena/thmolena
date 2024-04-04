@@ -10,7 +10,7 @@
 <a name="Hithere"></a>
 ### 🍀 About Me 👋
 
-▪️ I am Molena. I am currently developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering. Previously, I passed the Ph.D. Qualifying Exams, and completed all graduate credit hours beyond the Bachelor's Degree required for the Doctor of Philosophy Degree in Applied Mathematics at North Carolina State University.
+▪️ I am Molena. I am currently developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering. Previously, I received the Master of Science Degree, passed the Ph.D. Qualifying Exams, and completed all graduate credit hours beyond the Bachelor's Degree required for the Doctor of Philosophy Degree in Applied Mathematics at North Carolina State University.
 
 ▪️ How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
@@ -21,7 +21,9 @@
 <a name="Research"></a>
 ### 🔬 Research Experience
 
-▪️ I am interested in contributing to collaborative efforts that harness the power of GPUs for scientific and computational advancements. I am presenting my research titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24).
+▪️ I am interested in contributing to collaborative efforts that harness the power of GPUs for scientific and computational advancements. 
+
+▪️ I am fortunate to be presenting my research titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24), and the Flatiron Institute (Simons Foundation) Computational tools for PDEs with complicated boundaries and interfaces Workshop. I was also fortunately invited to attend the Random Matrices and Applications at ICERM, Brown University.
 
 ▪️ Earlier, I received two National Science Foundation Funded Ph.D. Research Internships to work in two different lab rotations. During these two internships, I learned how to utilize the High Performance Computing clusters, and the GPUs to solve problems in different fields, from Computational Biology, to Computer Science, Electrical, and Computer Engineering.
 
