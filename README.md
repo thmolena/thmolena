@@ -1,6 +1,6 @@
 ### 🌿 Welcome to my Github 🖐️
 - [Introduction](#Hithere)
-- [Research Experience, Publications and Conferences](#Research)
+- [Research Experience](#Research)
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
 - [Outreach Activities](#Outreach)
@@ -20,7 +20,7 @@
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
 <a name="Research"></a>
-### 🔬📚 Research Experience, Publications and Conferences
+### 🔬📚 Research Experience
 
 ▪️ I am presenting my abstract titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24), and the Flatiron Institute Computational Tools for PDE’s with Complicated Boundaries and Interfaces. 
 
