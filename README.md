@@ -22,7 +22,7 @@
 <a name="Research"></a>
 ### 🔬📚 Research Experience, Publications and Conferences
 
-▪️ I am also presenting my abstract titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24), and the Flatiron Institute Computational Tools for PDE’s with Complicated Boundaries and Interfaces. 
+▪️ I am presenting my abstract titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24), and the Flatiron Institute Computational Tools for PDE’s with Complicated Boundaries and Interfaces. 
 
 ▪️ Earlier, I was fortunate to receive the opportunities to present my single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” (DOI: 10.48550/ARXIV.2203.09696) at six different SIAM conferences. During the Spring semester of 2022, I presented that research at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22). During the Fall semester of 2021, I presented that research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21). 
 
