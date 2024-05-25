@@ -9,9 +9,9 @@
 <a name="Hithere"></a>
 ### 🍀 About Me 👋
 
-▪️   I am Molena. I am currently in the stage of writing and defending my dissertation for the Ph.D. Degree in Applied Mathematics at North Carolina State University.
+▪️ I am Molena. I am currently in the stage of writing and defending my dissertation for the Ph.D. Degree in Applied Mathematics at North Carolina State University.
 
-▪️ I am interested in contributing to collaborative efforts that harness the power of GPUs for scientific and computational advancements. For my Ph.D. Dissertation, I am developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering. I am also presenting my abstract titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24), and the Flatiron Institute Computational Tools for PDE’s with Complicated Boundaries and Interfaces.
+▪️ For my Ph.D. Dissertation, I am developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering. I am presenting my abstract titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24), and the Flatiron Institute Computational Tools for PDE’s with Complicated Boundaries and Interfaces.
 
 ▪️ How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
@@ -59,9 +59,11 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 <a name="Outreach"></a>
 
 ### ⌛️ Outreach Activities
+
 ▪️ Lastly, I have been a representative for the Society of Industrial Applied Mathematics (SIAM) at the North Carolina State University (NCSU) Student Chapter since September 2022. In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, and mentorship.
 
 ### 🧸 Fun Fact
+
 ▪️ At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for the Fall semester of 2021, I was honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (starting in the Fall semester of 2021). During the Spring semester of 2021, I participated in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural and relatively small 4-year Liberal Arts College to the prestigious Applied Mathematics PhD Program. 
 
 ▪️ In the Fall semester of 2018, right after receiving a High School Diploma, I attended a rural and relatively small 4-year Liberal Arts College in Kentucky (Berea College). In fewer than three years, from the starting point of 0 transfer credit, after changing my major(s) for four times, I graduated from Berea College with a MAGNA CUM LAUDE Bachelor's Degree in Mathematics (with a Computer Science minor), with a Major GPA of 4.0/ 4.0.
