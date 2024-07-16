@@ -9,7 +9,7 @@
 <a name="Hithere"></a>
 ### 🍀 About Me 👋
 
-▪️ I am Molena. I am currently in the stage of writing and defending my dissertation for the Ph.D. Degree in Applied Mathematics at North Carolina State University.
+▪️ I am Molena Huynh. I am currently in the stage of writing and defending my dissertation for the Ph.D. Degree in Applied Mathematics at North Carolina State University.
 
 ▪️ For my Ph.D. Dissertation, I am developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering. I am also presenting my abstract titled "Parallel Recursive Skeletonization Solver for Dense Linear Systems on GPU-Accelerated Computers" at the Annual SIAM Meeting (AN24), and the Flatiron Institute Computational Tools for PDE’s with Complicated Boundaries and Interfaces.
 
