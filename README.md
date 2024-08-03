@@ -1,5 +1,5 @@
 ### 🌿 Welcome to my Github 🖐️
-- [Introduction](#Hithere)
+- [Biography](#Hithere)
 - [Research Experience](#Research)
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
