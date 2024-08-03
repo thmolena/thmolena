@@ -7,11 +7,11 @@
 
 
 <a name="Hithere"></a>
-### 🍀 About Me 👋
+### 🧸 Biography
 
-▪️ I am Molena Huynh. I am currently in the stage of writing and defending my dissertation for the Ph.D. Degree in Applied Mathematics at North Carolina State University.
+At the age of 20, Molena received multiple acceptance letters and graduate assistantships from both the Pure and Applied Mathematics PhD programs. After careful consideration, she was honored to officially start her journey towards the Ph.D. Degree at the age of 21, as an incoming first-year Ph.D. Student in (Pure) Mathematics at North Carolina State University, which she fondly referred to as her most treasured and remarkable _.phdjourneyat21._ 
 
-▪️ For my Ph.D. Dissertation, I am developing high performance algorithms leveraging modern computing architectures for efficiently solving large dense linear systems employing hierarchical low-rank structures, with applications in Kernel Approximation, Boundary Integral Equations, and Elliptical PDEs in Machine Learning, Mathematical Physics, and Engineering.
+In depth, Molena's most admired and honorable _.phdjourneyat21._ stems from her beginnings as a secondary school student specializing in English at Tran Dai Nghia High School For The Gifted at the age of 15. She then transitioned to become a high school student specializing in Vietnamese Literature at VNU-HCM High School For The Gifted, one of the top-tier high schools in Vietnam. At the age of 17, she received the acceptance letters and full-ride scholarships from multiple undergraduate programs in English and English Literature in the United States. At the age of 18, she received her last academic award in Vietnamese Literature, in Ho Chi Minh City, Vietnam, before moving to the United States. Two years later, at the age of 20, Molena received the acceptance letters and graduate assistantships from multiple Ph.D. programs in both Pure and Applied Mathematics. To prepare for a smooth transition to the (Pure) Mathematics PhD Program, she also participated in the Budapest Semesters in Mathematics program during the Spring semester of 2021. At the age of 23, she successfully completed her second year in the Ph.D. program in Applied Mathematics, passed all required written qualifying exams, finished one of her most memorable semesters in graduate school, with a GPA of 4.1665 out of 4.0000, and received her Master of Science Degree in Applied Mathematics.
 
 ▪️ How to reach me:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="T.H. Molena Nguyen's LinkedIn" width="20px" height="20px" />  </a> 
 
@@ -61,14 +61,5 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 ### ⌛️ Outreach Activities
 
 ▪️ Lastly, I have been a representative for the Society of Industrial Applied Mathematics (SIAM) at the North Carolina State University (NCSU) Student Chapter since September 2022. In January of 2022, I was a project mentor at the "Tenth Annual Conference to Increase Diversity in Mathematical Modeling and Public Health" (2022 MIDAS-CCDD), which was hosted by the MIDAS Coordination Center in cooperation with the Center for Communicable Disease Dynamics (CCDD) at Harvard T. H. Chan School of Public Health. In October of 2021, I was a conference moderator at the Graduates Achieving Inclusion Now (GAIN) Conference on measuring graduate students' success, allyship, and mentorship.
-
-### 🧸 Fun Fact
-
-▪️ At the age of 20, with several acceptance letters and full scholarships from different prestigious Mathematics and Applied Mathematics PhD programs for the Fall semester of 2021, I was honored to officially become an incoming first-year Applied Mathematics PhD student at North Carolina State University (starting in the Fall semester of 2021). During the Spring semester of 2021, I participated in the Budapest Semesters in Mathematics program to prepare me for a smooth transition from a rural and relatively small 4-year Liberal Arts College to the prestigious Applied Mathematics PhD Program. 
-
-▪️ In the Fall semester of 2018, right after receiving a High School Diploma, I attended a rural and relatively small 4-year Liberal Arts College in Kentucky (Berea College). In fewer than three years, from the starting point of 0 transfer credit, after changing my major(s) for four times, I graduated from Berea College with a MAGNA CUM LAUDE Bachelor's Degree in Mathematics (with a Computer Science minor), with a Major GPA of 4.0/ 4.0.
-
-▪️ In just 4 semesters of college, I completed several Directed Studies in Mathematics, and every single one of the upper-level Mathematics courses that Berea College offered with only A's and A+'s. In the past 5 semesters, I had to fill in the overload coursework form in every single semester to take 6 full-credit courses, as all Berea College students are only allowed to self-register for 4 full-credit courses per semester.
-
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
