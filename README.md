@@ -1,16 +1,14 @@
 ### 🌿 Welcome to my Github 🖐️
 - [Coding Portfolio](#Coding)
+- [Github Stats](#Githubstats)
 - [Biography](#Hithere)
 - [Research Experience](#Research)
-- [Github Stats](#Githubstats)
 - [Outreach Activities](#Outreach)
 
 
 
 <a name="Coding"></a>
 ### 🔑 Coding Portfolio
-
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=graywhite"/>
 
 Topics/ Areas / Programming Languages | Projects 
 ---------- | -------- |  
@@ -23,6 +21,17 @@ Data Structures with C++ | <li/> [Binary Addition](https://github.com/thmolena/B
 JPMorgan Chase & Co. Software Engineering Virtual Experience |  <li/> [JPMorgan First Task](https://github.com/thmolena/JP-Morgan-Virtual-Internship-First-Task)  <li/> [JPMorgan Second Task](https://github.com/thmolena/JP-Morgan-Virtual-Internship-Second-Task)
 MATLAB | <li/> [Machine Learning in MATLAB](https://github.com/thmolena/Machine-Learning-MATLAB)  <li/> [Numerical Analysis in MATLAB](https://github.com/thmolena/Numerical-Analysis-in-MATLAB)
 Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/thmolena/Coding-practice-with-JavaScript)  <li/> [Coding practice with Python 1](https://github.com/thmolena/Leetcode_Practice)  <li/> [Coding practice with Python 2](https://github.com/thmolena/Python-Coding-Practice-2)  <li/>[Coding practice with Python 3](https://github.com/thmolena/Python-Coding-Practice-3)   <li/> [Turtle Art](https://github.com/thmolena/Turtle-Art)  <li/> [Modules](https://github.com/thmolena/Practice-with-Modules)  <li/> [Mad Lib](https://github.com/thmolena/Mad-Lib)  <li/> [Adventure](https://github.com/thmolena/Adventure)  <li/> [Unit Testing](https://github.com/thmolena/Practice-with-Unit-Testing)  <li/> [Django Learning](https://github.com/thmolena/Django-Learning)  <li/> [Funky Functions](https://github.com/thmolena/Practice-with-Funcky-Functions)  <li/> [Making-boustrophedon](https://github.com/thmolena/Making-boustrophedon)  <li/> [Math Quiz on Cars](https://github.com/thmolena/Math-Quiz-on-Cars)   <li/>[Python Classes](https://github.com/thmolena/Python-Intro-to-Classes)  <li/> [Excel Visual Basic for Applications Projects](https://github.com/thmolena/Excel-Visual-Basic-for-Applications)
+
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmolena&theme=graywhite"/>
+
+<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
+
+<a name="Githubstats"></a>
+### 🚀 Github Stats 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=10&theme=shadow_red&hide_border=true&show_icons=true&count-private=true&hide_progress=true"/><img  src="https://streak-stats.demolab.com/?user=thmolena&hide_current_streak=true&hide_longest_streak=true&hide_border=true" />
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmolena&theme=graywhite&hide_border=true"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite&hide_border=true"/> 
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
@@ -47,15 +56,6 @@ In depth, Molena's most admired and honorable \_.phdjourneyat21.\_ stems from he
 ▪️ Earlier, I was fortunate to receive the opportunities to present my single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” (DOI: 10.48550/ARXIV.2203.09696) at six different SIAM conferences. During the Spring semester of 2022, I presented that research at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22). During the Fall semester of 2021, I presented that research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
 
 ▪️ Subsequently, I received two National Science Foundation Funded Ph.D. Research Internships to work in two different lab rotations. During these internships, I learned how to utilize the High Performance Computing clusters, and the GPUs to solve problems in different fields, from Computational Biology, to Computer Science, Electrical, and Computer Engineering.
-
-<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
-
-<a name="Githubstats"></a>
-### 🚀 Github Stats 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmolena&langs_count=10&theme=shadow_red&hide_border=true&show_icons=true&count-private=true&hide_progress=true"/><img  src="https://streak-stats.demolab.com/?user=thmolena&hide_current_streak=true&hide_longest_streak=true&hide_border=true" />
-
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmolena&theme=graywhite&hide_border=true"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmolena&theme=graywhite&hide_border=true"/> 
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
