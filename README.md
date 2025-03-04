@@ -1,8 +1,8 @@
 ### 🌿 Welcome to my Github 🖐️
-- [Biography](#Hithere)
-- [Research Experience](#Research)
 - [Github Stats](#Githubstats)
 - [Coding Portfolio](#Coding)
+- [Biography](#Hithere)
+- [Research Experience](#Research)
 - [Outreach Activities](#Outreach)
 
 
