@@ -48,7 +48,7 @@ At age 18, Molena received her final academic award in Vietnamese Literature in 
 
 By 23, Molena had completed her second year in the Applied Mathematics Ph.D. program, passed all required qualifying exams, and earned a Master of Science in Applied Mathematics with a GPA of 4.1665 out of 4.0000—one of the most memorable milestones in her graduate journey.
 
-At the age of 25, she proudly completed her Ph.D. in Applied Mathematics, becoming a Ph.D. holder and solidifying her place in the mathematical community—a testament to her unwavering dedication, intellectual passion, and the journey that began with a bold decision at 21.
+At the age of 25, she proudly completed her Ph.D. in Applied Mathematics, becoming a Ph.D. holder and solidifying her place in the mathematical community—a testament to her unwavering dedication, intellectual passion, and the journey that began with a bold decision at 20.
 
 ▪️ How to reach Molena:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="Molena's LinkedIn" width="20px" height="20px" />  </a> 
 
