@@ -10,7 +10,7 @@
 <a name="Coding"></a>
 ### 🔑 Coding Portfolio
 
-Topics/ Areas / Programming Languages | Projects 
+Topics/ Areas | Projects 
 ---------- | -------- |  
 Quantum Computing and Machine Learning (Ph.D. Research Areas) | <li/>[Hybrid Quantum Graph AI QAOA GNN Biomedical Optimization](https://thmolena.github.io/Hybrid-Quantum-Graph-AI-QAOA-GNN-Biomedical-Optimization/) <li/>[QuantumPINNs: Physics-Informed Neural Networks for Quantum-Relevant Physical Modeling](https://thmolena.github.io/QuantumPINNs-Physics-Informed-Neural-Networks-for-Quantum-Relevant-Physical-Modeling/) <li/>[Quantum Drift Forecasting](https://thmolena.github.io/Quantum-Drift-Forecasting/) <li/>[Lie Algebra GPT for Hamiltonian Simulation](https://thmolena.github.io/Lie-Algebra-for-Hamiltonian-Simulation/)
 NSF Funded Research on Deep Learning Models (Recurrent Neural Networks RNNs / Long Short-Term Memory LSTM Networks  / Gated Recurrent Units GRUs) for Single-Cell Genomics |<li/>[Long Short-Term Memory Networks in Payment Channel Networks](https://github.com/thmolena/LSTM-in-Payment-Channel-Network) <li/> [Recurrent Neural Networks Time Series Demand Forecasting](https://github.com/thmolena/Recurrent-Neural-Networks-Time-Series-Demand-Forecasting) <li/> [Single Cell Multi-Omics Alignment](https://thmolena.github.io/Single-Cell-Multi-Omics-Alignment/)  
