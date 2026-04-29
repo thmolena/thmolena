@@ -41,15 +41,24 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 <a name="Hithere"></a>
 ### 🧸 Biography
 
-At the age of 20, Molena received multiple offers of admission and fully funded graduate assistantships from prestigious Ph.D. programs in both Pure and Applied Mathematics. After thoughtful deliberation, she was honored to embark on her doctoral journey at the age of 21 as an incoming first-year Ph.D. student in (Pure) Mathematics at North Carolina State University—a decision she fondly refers to as the beginning of her most treasured and remarkable \_.phdjourneyat21.\_
+In her early twenties, Molena takes pride in possessing only two "superpowers". Her first superpower was getting accepted into multiple PhD programs in both Pure and Applied Mathematics at the age of 20, and her second one was working full-time in machine learning and deep learning at leading AI technology companies, while maintaining her PhD candidacy, and ultimately defending her thesis.
 
-Molena’s distinguished \_.phdjourneyat21.\_ was deeply rooted in her early academic path. At age 15, she began as a secondary school student specializing in English at Tran Dai Nghia High School for the Gifted. Later, she transitioned to focus on Vietnamese Literature at VNU-HCM High School for the Gifted, one of Vietnam’s top-tier institutions. By 17, she had earned acceptance and full-ride scholarships to several U.S. undergraduate programs in English and English Literature.
+At the age of 20, Molena received multiple acceptance letters and graduate assistantships from both the Pure and Applied Mathematics PhD programs. After eight months of careful consideration, she was honored to officially start her journey towards the Ph.D. Degree at the age of 21, as an incoming first-year Ph.D. Student in (Pure) Mathematics at North Carolina State University, which she fondly referred to as her most treasured and remarkable \_.phdjourneyat21.\_ 
 
-At age 18, Molena received her final academic award in Vietnamese Literature in Ho Chi Minh City before relocating to the United States. Just two years later, at 20, she was admitted to multiple doctoral programs in mathematics and further prepared herself by attending the Budapest Semesters in Mathematics in Spring 2021.
+In depth, Molena's most admired and honorable \_.phdjourneyat21.\_ stems from her early beginnings as a secondary school student at the age of 11, at one of the most renowned Gifted high schools in southern Việt Nam, Trần Đại Nghĩa High School For The Gifted, where she specialized in English. 
 
-By 23, Molena had completed her second year in the Applied Mathematics Ph.D. program, passed all required qualifying exams, and earned a Master of Science in Applied Mathematics with a GPA of 4.1665 out of 4.0000—one of the most memorable milestones in her graduate journey.
+At the age of 15, she became a high school student at another nationally renowned Gifted High School, VNU-HCM High School For The Gifted, where she specialized in Vietnamese Literature. 
 
-At the age of 25, she proudly completed her Ph.D. in Applied Mathematics, becoming a Ph.D. holder and solidifying her place in the mathematical community—a testament to her unwavering dedication, intellectual passion, and the journey that began with a bold decision at 20.
+At the age of 17, she received the acceptance letters and full-ride scholarships from multiple undergraduate programs in English and English Literature in the United States. 
+
+At the age of 18, she received her final prestigious academic award in Vietnamese Literature in \selectlanguage{vietnamese}{Hồ Chí Minh} City, Việt Nam, before moving to the United States to begin her undergraduate studies as a Freshman majoring in English. 
+
+Two years after first setting foot in the United States, at the age of 20, Molena received the acceptance letters and graduate assistantships from multiple Ph.D. programs in both Pure and Applied Mathematics. Following this, to prepare for a smooth transition to the (Pure) Mathematics PhD Program, she participated in the Budapest Semesters in Mathematics program in the very next academic semester, the Spring semester of 2021.
+
+At the age of 23, Molena successfully completed her second year in the Ph.D. program in Applied Mathematics, passed three required written qualifying exams, and finished one of her most memorable semesters in graduate school with a GPA of 4.1665 out of 4.0000. She also received her Master of Science degree in Applied Mathematics at the end of the Spring semester of 2023. 
+
+Shortly thereafter, Molena was accepted into Ph.D. candidacy and started working full-time in machine learning and deep learning at leading AI technology companies, all while continuing her doctoral studies, maintaining her Ph.D. Candidacy, and ultimately defending her thesis.
+
 
 ▪️ How to reach Molena:   <a href="https://www.linkedin.com/in/thmolena/">  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="Molena's LinkedIn" width="20px" height="20px" />  </a> 
 
