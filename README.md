@@ -1,8 +1,8 @@
 ### 🌿 Welcome to my Github 🖐️
 - [Coding Portfolio](#Coding)
 - [Github Stats](#Githubstats)
-- [Biography](#Hithere)
 - [Research Experience](#Research)
+- [Biography](#Hithere)
 - [Outreach Activities](#Outreach)
 
 
@@ -38,6 +38,18 @@ Coding Practice |  <li/> [Coding practice with Javascript](https://github.com/th
 
 
 
+<a name="Research"></a>
+### 🔬📚 Research Experience
+
+▪️ [Google Scholar](https://scholar.google.com/citations?hl=en&user=BKppI4MAAAAJ)
+
+▪️ Earlier, I was fortunate to receive the opportunities to present my single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” (DOI: 10.48550/ARXIV.2203.09696) at six different SIAM conferences. During the Spring semester of 2022, I presented that research at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22). During the Fall semester of 2021, I presented that research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
+
+▪️ Subsequently, I received two National Science Foundation Funded Ph.D. Research Internships to work in two different lab rotations. During these internships, I learned how to utilize the High Performance Computing clusters, and the GPUs to solve problems in different fields, from Computational Biology, to Computer Science, Electrical, and Computer Engineering.
+
+<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
+
+
 <a name="Hithere"></a>
 ### 🧸 Biography
 
@@ -66,16 +78,6 @@ Shortly thereafter, Molena was accepted into Ph.D. candidacy and started working
 
 <a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
-<a name="Research"></a>
-### 🔬📚 Research Experience
-
-▪️ [Google Scholar](https://scholar.google.com/citations?hl=en&user=BKppI4MAAAAJ)
-
-▪️ Earlier, I was fortunate to receive the opportunities to present my single-author paper titled “Take-Away Impartial Combinatorial Games on Hypergraphs and Other Related Geometric and Discrete Structures” (DOI: 10.48550/ARXIV.2203.09696) at six different SIAM conferences. During the Spring semester of 2022, I presented that research at the SIAM Conference on Parallel Processing for Scientific Computing (PP22), the SIAM Conference on Uncertainty Quantification (UQ22), and the Joint Mathematics Meetings (JMM22). During the Fall semester of 2021, I presented that research at the Young Mathematicians Conference (YMC21), the SIAM Southeastern Atlantic Section Annual Meeting (SEAS21), and the Annual SIAM Central States Section Conference (CSS21).
-
-▪️ Subsequently, I received two National Science Foundation Funded Ph.D. Research Internships to work in two different lab rotations. During these internships, I learned how to utilize the High Performance Computing clusters, and the GPUs to solve problems in different fields, from Computational Biology, to Computer Science, Electrical, and Computer Engineering.
-
-<a href="#top" class="btn btn-primary" style="position: fixed; bottom: 20px; right: 20px;">Back to Top</a>
 
 <a name="Outreach"></a>
 
